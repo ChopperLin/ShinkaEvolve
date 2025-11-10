@@ -1,0 +1,12 @@
+{
+  "combined_score": 1923.076923076923,
+  "public": {
+    "execution_time_ms": 0.52,
+    "instruction_count": 42,
+    "fps_estimate": 1923.076923076923,
+    "compiled": true
+  },
+  "private": {
+    "raw_execution_time": 0.52
+  }
+}
