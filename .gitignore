@@ -173,3 +173,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Shinka evaluation results and test outputs
+test_results/
+results/
+poc_test/
+**/test_results/
+**/results/
+**/poc_test/
